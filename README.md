@@ -1,0 +1,1 @@
+npm install --save redux react-redux redux-saga reactstrap react react-dom axios
